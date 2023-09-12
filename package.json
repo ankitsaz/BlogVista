@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
 
-  "author": "net ninja",
+  "author": "ankitsaz",
   "license": "ISC",
 
   "dependencies": {
